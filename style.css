@@ -1,8 +1,5 @@
 body {
   background: #2F2E41;
-  margin: 200 99;
-
-
 }
 
 header {
@@ -17,8 +14,8 @@ header ul {
   list-style: none;
   display: flex;
   align-items: center;
-  margin: auto;
 }
+
 a {
   font-style: normal;
   cursor: pointer;
